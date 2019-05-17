@@ -1,0 +1,1001 @@
+Degree,Age,CS180_Grade,GPA,Credit_Hours,Months_Until_Employment
+First Year Engineering,24,91.0,,9.0,11.0
+chemistry,22,1.0,3.06,15.0,12.0
+Biochemistry,22,97.0,2.92,12.0,12.0
+data science,23,49.0,2.69,3.0,1.0
+Electrical Engineering,27,31.0,3.45,3.0,
+Biology,26,,2.69,15.0,14.0
+data science,27,21.0,2.95,3.0,5.0
+computer science,,,3.85,12.0,2.0
+chemistry,22,91.0,3.71,18.0,0.0
+Data Science,26,25.0,2.51,15.0,1.0
+applied mathematics,27,22.0,3.12,12.0,4.0
+applied mathematics,25,,2.87,9.0,17.0
+Electrical Engineering,22,49.0,2.86,3.0,13.0
+Biology,26,47.0,,15.0,12.0
+Core Mathematics,25,86.0,3.08,9.0,2.0
+applied mathematics,22,7.0,3.42,9.0,6.0
+computer science,,19.0,3.14,6.0,15.0
+chemistry,26,69.0,3.96,3.0,3.0
+Pre-Medical,26,11.0,3.15,15.0,16.0
+Mechanical Engineering,23,,2.59,9.0,0.0
+chemistry,27,98.0,3.78,6.0,9.0
+Data Science,23,56.0,3.55,12.0,12.0
+data science,22,23.0,3.58,12.0,12.0
+Computer Science,25,56.0,,,11.0
+Computer and Information Technology,24,66.0,2.87,12.0,15.0
+Mechanical Engineering,24,37.0,3.6,9.0,2.0
+Mathematics/Computer Science,22,68.0,3.65,15.0,4.0
+Physics,24,25.0,3.43,9.0,1.0
+Mathematics/Computer Science,26,,3.2,9.0,1.0
+Data Science,27,72.0,2.83,9.0,12.0
+Mechanical Engineering,23,61.0,3.44,3.0,16.0
+Electrical Engineering,25,91.0,3.55,,
+Electrical Engineering,27,93.0,2.51,6.0,16.0
+Computer and Information Technology,26,78.0,3.72,12.0,10.0
+Biochemistry,26,93.0,3.14,,9.0
+Biochemistry,26,26.0,3.59,3.0,9.0
+Applied Statistics,22,64.0,,12.0,10.0
+Core Mathematics,22,74.0,,15.0,9.0
+chemistry,24,66.0,3.99,15.0,0.0
+data science,26,68.0,2.84,,4.0
+data science,27,75.0,2.81,3.0,11.0
+Computer Science,23,74.0,3.32,3.0,1.0
+applied mathematics,,85.0,2.6,18.0,3.0
+Electrical Engineering,23,28.0,3.03,12.0,16.0
+Biology,22,76.0,3.2,12.0,11.0
+Data Science,26,20.0,3.63,15.0,1.0
+Biology,27,48.0,3.02,3.0,
+Biochemistry,23,60.0,3.74,12.0,6.0
+Mechanical Engineering,27,27.0,2.55,3.0,12.0
+Mathematics/Computer Science,23,81.0,3.87,12.0,17.0
+applied mathematics,24,49.0,2.89,12.0,7.0
+data science,25,55.0,2.84,6.0,15.0
+Data Science,23,98.0,2.9,3.0,7.0
+Computer Science,27,7.0,,9.0,6.0
+First Year Engineering,24,84.0,3.97,6.0,7.0
+Pre-Medical,22,51.0,3.63,18.0,6.0
+Computer Science,22,51.0,3.57,,1.0
+Biochemistry,27,49.0,2.51,18.0,2.0
+Biology,27,75.0,3.18,,12.0
+Applied Statistics,26,89.0,,,11.0
+Pre-Medical,25,92.0,2.91,12.0,6.0
+First Year Engineering,26,44.0,3.35,6.0,
+Physics,26,33.0,3.08,9.0,15.0
+First Year Engineering,27,67.0,2.59,15.0,4.0
+Computer Science,24,,3.89,9.0,12.0
+computer and information technology,24,31.0,3.06,18.0,12.0
+Biochemistry,23,94.0,3.49,18.0,16.0
+biology,25,77.0,3.11,3.0,10.0
+Biology,23,42.0,,,7.0
+data science,24,42.0,2.83,6.0,13.0
+applied mathematics,27,99.0,3.63,6.0,2.0
+computer and information technology,26,48.0,3.7,3.0,14.0
+Mathematics/Computer Science,26,61.0,3.12,6.0,13.0
+Computer and Information Technology,26,14.0,2.71,3.0,17.0
+Applied Statistics,25,18.0,2.83,9.0,16.0
+Computer Science,22,76.0,3.48,9.0,11.0
+Data Science,,47.0,3.74,9.0,8.0
+Biology,27,36.0,3.88,18.0,2.0
+Biology,25,49.0,2.8,18.0,16.0
+Mechanical Engineering,25,,3.76,6.0,0.0
+Biochemistry,24,87.0,2.61,3.0,15.0
+Mechanical Engineering,23,45.0,3.51,12.0,2.0
+Mathematics/Computer Science,,24.0,3.8,6.0,0.0
+chemistry,22,39.0,2.61,12.0,14.0
+computer and information technology,22,7.0,2.56,6.0,5.0
+Biology,,73.0,3.89,3.0,13.0
+data science,22,3.0,2.59,,4.0
+Mathematics/Computer Science,27,88.0,2.51,12.0,17.0
+Applied Statistics,23,58.0,3.92,18.0,14.0
+applied mathematics,25,99.0,3.52,9.0,
+Biology,,96.0,2.75,,10.0
+Core Mathematics,24,87.0,3.33,15.0,1.0
+Electrical Engineering,27,54.0,3.9,12.0,13.0
+computer science,26,57.0,3.03,12.0,14.0
+Core Mathematics,26,64.0,3.08,6.0,3.0
+Data Science,26,13.0,2.54,18.0,14.0
+Biochemistry,24,0.0,3.3,9.0,13.0
+Biochemistry,24,51.0,3.83,15.0,3.0
+applied mathematics,24,26.0,3.52,6.0,6.0
+computer science,23,15.0,3.96,3.0,11.0
+computer science,22,98.0,3.75,,0.0
+Data Science,23,50.0,2.54,18.0,5.0
+applied mathematics,23,45.0,2.94,12.0,4.0
+Biochemistry,,11.0,,9.0,10.0
+Computer Science,27,19.0,3.68,9.0,16.0
+computer science,22,80.0,3.08,,7.0
+applied mathematics,27,23.0,3.51,6.0,13.0
+Data Science,25,45.0,2.54,3.0,11.0
+chemistry,23,,3.36,6.0,10.0
+Mechanical Engineering,26,78.0,3.89,3.0,6.0
+Pre-Medical,22,9.0,,3.0,10.0
+First Year Engineering,,53.0,3.68,9.0,11.0
+computer science,23,78.0,2.58,,3.0
+Mathematics/Computer Science,25,95.0,3.42,,9.0
+Biology,27,71.0,3.93,12.0,5.0
+Applied Statistics,24,20.0,3.82,6.0,11.0
+First Year Engineering,25,88.0,2.73,3.0,2.0
+Biochemistry,26,47.0,2.84,12.0,11.0
+computer science,27,17.0,3.82,3.0,13.0
+Core Mathematics,25,1.0,2.6,,4.0
+applied mathematics,27,0.0,2.79,6.0,9.0
+Pre-Medical,22,52.0,3.99,3.0,8.0
+Mechanical Engineering,,14.0,3.66,6.0,14.0
+computer and information technology,26,58.0,3.17,12.0,16.0
+Computer Science,22,32.0,3.31,9.0,0.0
+Biology,26,75.0,3.17,18.0,3.0
+Computer and Information Technology,,92.0,3.69,12.0,17.0
+First Year Engineering,26,90.0,2.95,3.0,14.0
+Electrical Engineering,26,87.0,3.6,9.0,6.0
+Electrical Engineering,,5.0,2.79,3.0,2.0
+data science,25,74.0,3.11,18.0,10.0
+Biology,23,88.0,2.64,9.0,10.0
+computer science,27,41.0,3.25,9.0,
+Data Science,24,,3.86,12.0,2.0
+computer and information technology,24,40.0,,9.0,
+computer science,27,,,12.0,15.0
+Computer Science,26,68.0,3.58,9.0,2.0
+Pre-Medical,,38.0,3.95,9.0,5.0
+data science,23,55.0,3.01,6.0,10.0
+data science,24,,2.6,3.0,5.0
+Mechanical Engineering,25,21.0,2.69,15.0,16.0
+Mathematics/Computer Science,26,81.0,3.98,18.0,7.0
+Mechanical Engineering,,25.0,3.92,,15.0
+biology,24,63.0,2.63,6.0,12.0
+Computer Science,23,59.0,3.46,,6.0
+Applied Statistics,23,57.0,2.61,9.0,9.0
+Applied Statistics,22,3.0,2.57,18.0,7.0
+Computer Science,24,32.0,3.4,9.0,8.0
+Data Science,26,91.0,,3.0,10.0
+Computer Science,23,0.0,3.99,18.0,2.0
+Mathematics/Computer Science,26,19.0,3.57,6.0,
+Mechanical Engineering,,22.0,2.97,9.0,8.0
+Computer Science,22,90.0,3.82,9.0,8.0
+Applied Statistics,22,3.0,3.57,18.0,6.0
+computer and information technology,25,18.0,3.88,18.0,16.0
+applied mathematics,25,67.0,3.87,9.0,16.0
+computer science,23,4.0,,12.0,
+Applied Statistics,26,66.0,3.12,12.0,15.0
+Electrical Engineering,,89.0,2.74,,15.0
+chemistry,27,88.0,3.95,18.0,3.0
+Applied Statistics,24,3.0,3.75,3.0,16.0
+computer and information technology,25,57.0,2.6,6.0,12.0
+Mechanical Engineering,26,88.0,2.81,15.0,
+Mechanical Engineering,26,26.0,3.25,15.0,13.0
+Biochemistry,24,,2.52,3.0,11.0
+Physics,22,10.0,,15.0,
+computer and information technology,,67.0,3.16,15.0,15.0
+biology,24,25.0,2.64,15.0,11.0
+First Year Engineering,26,75.0,3.21,18.0,7.0
+Physics,27,6.0,,9.0,2.0
+First Year Engineering,26,48.0,2.6,12.0,7.0
+chemistry,23,91.0,3.91,6.0,0.0
+computer and information technology,,18.0,3.13,,6.0
+chemistry,23,66.0,3.42,15.0,11.0
+Mathematics/Computer Science,27,26.0,,3.0,7.0
+data science,,79.0,,12.0,12.0
+Biology,26,62.0,2.83,12.0,12.0
+Biology,22,24.0,3.83,15.0,2.0
+data science,22,,3.24,,
+computer and information technology,24,71.0,3.57,3.0,3.0
+Physics,,95.0,2.58,12.0,
+Computer Science,25,69.0,3.74,6.0,17.0
+Mechanical Engineering,23,55.0,3.29,12.0,1.0
+First Year Engineering,26,13.0,3.21,3.0,6.0
+Computer Science,26,30.0,2.97,9.0,3.0
+Pre-Medical,27,63.0,3.15,9.0,
+Pre-Medical,25,94.0,,9.0,
+Biochemistry,26,45.0,3.44,15.0,13.0
+Computer Science,26,47.0,3.45,15.0,1.0
+Applied Statistics,27,,3.74,18.0,9.0
+Computer Science,,37.0,3.42,18.0,1.0
+First Year Engineering,23,36.0,3.41,12.0,14.0
+computer science,23,98.0,2.88,12.0,0.0
+Electrical Engineering,,45.0,3.02,18.0,11.0
+biology,24,61.0,3.08,12.0,7.0
+Mathematics/Computer Science,24,53.0,3.96,15.0,
+Pre-Medical,27,36.0,3.72,3.0,16.0
+computer and information technology,22,63.0,,,12.0
+Mathematics/Computer Science,24,6.0,3.97,9.0,1.0
+Electrical Engineering,,96.0,2.78,9.0,11.0
+Applied Statistics,25,16.0,2.74,3.0,6.0
+Electrical Engineering,23,73.0,3.57,18.0,10.0
+computer and information technology,22,89.0,2.71,6.0,6.0
+applied mathematics,25,14.0,2.92,18.0,3.0
+Core Mathematics,23,52.0,2.89,18.0,13.0
+Core Mathematics,,19.0,2.67,,1.0
+Physics,24,83.0,2.61,18.0,9.0
+Computer and Information Technology,,14.0,3.58,12.0,0.0
+data science,26,70.0,2.55,12.0,
+computer science,24,,3.7,,6.0
+First Year Engineering,,39.0,3.58,3.0,10.0
+Biochemistry,27,92.0,3.1,3.0,15.0
+Electrical Engineering,24,,3.66,,16.0
+Applied Statistics,25,53.0,2.71,15.0,8.0
+computer science,22,53.0,2.56,9.0,7.0
+chemistry,27,26.0,3.77,12.0,11.0
+Computer and Information Technology,26,52.0,3.47,6.0,11.0
+Computer and Information Technology,22,,3.6,15.0,
+Pre-Medical,23,,2.59,3.0,16.0
+biology,23,65.0,3.71,15.0,6.0
+Pre-Medical,22,82.0,3.87,15.0,
+Applied Statistics,26,2.0,2.65,9.0,13.0
+Mechanical Engineering,24,76.0,3.34,12.0,9.0
+Electrical Engineering,26,48.0,3.21,18.0,15.0
+Physics,22,,3.93,18.0,16.0
+Applied Statistics,25,78.0,3.9,3.0,7.0
+Biology,,18.0,2.61,6.0,9.0
+Applied Statistics,,94.0,2.6,9.0,2.0
+Mathematics/Computer Science,,14.0,3.09,6.0,15.0
+applied mathematics,,85.0,3.43,,2.0
+Physics,26,62.0,3.58,12.0,13.0
+Biology,25,48.0,,,7.0
+computer and information technology,22,63.0,,18.0,11.0
+applied mathematics,24,77.0,3.26,6.0,0.0
+computer science,27,1.0,3.44,6.0,7.0
+Biochemistry,,24.0,3.97,6.0,7.0
+Mechanical Engineering,,9.0,3.21,6.0,14.0
+Biochemistry,24,63.0,3.29,9.0,4.0
+Biochemistry,,18.0,2.51,6.0,0.0
+Core Mathematics,23,14.0,3.85,12.0,9.0
+Computer and Information Technology,22,29.0,2.66,18.0,11.0
+Physics,24,52.0,3.05,18.0,13.0
+Mechanical Engineering,24,78.0,3.12,18.0,10.0
+Computer Science,,96.0,3.74,18.0,8.0
+Computer Science,,60.0,3.44,18.0,
+Pre-Medical,27,,3.01,6.0,4.0
+Data Science,,51.0,2.66,9.0,11.0
+Data Science,27,22.0,2.88,3.0,8.0
+Applied Statistics,24,68.0,3.95,6.0,
+Computer and Information Technology,23,61.0,3.84,3.0,11.0
+Computer and Information Technology,23,,2.9,9.0,13.0
+Data Science,22,26.0,3.11,18.0,17.0
+data science,23,6.0,3.41,18.0,2.0
+computer science,22,19.0,3.08,15.0,9.0
+biology,24,75.0,3.61,12.0,4.0
+Computer Science,,,3.24,,12.0
+applied mathematics,25,88.0,2.79,18.0,
+Computer and Information Technology,23,15.0,3.55,18.0,12.0
+computer and information technology,22,96.0,3.81,6.0,9.0
+Physics,27,44.0,2.82,12.0,12.0
+computer and information technology,23,35.0,,,14.0
+Applied Statistics,27,96.0,2.9,15.0,5.0
+biology,26,47.0,3.44,15.0,7.0
+computer and information technology,23,26.0,2.76,12.0,11.0
+Computer and Information Technology,22,27.0,3.74,12.0,
+computer and information technology,,80.0,3.72,6.0,7.0
+Biology,24,80.0,3.59,3.0,17.0
+Biochemistry,25,86.0,2.69,15.0,8.0
+Core Mathematics,,41.0,3.05,,
+Biochemistry,25,,3.85,6.0,10.0
+Electrical Engineering,22,34.0,3.03,3.0,11.0
+Computer and Information Technology,24,19.0,3.31,9.0,6.0
+Computer and Information Technology,26,71.0,2.99,12.0,3.0
+computer science,22,,3.99,18.0,6.0
+data science,22,92.0,3.24,12.0,3.0
+Computer Science,27,37.0,2.52,18.0,14.0
+Applied Statistics,,,3.29,18.0,16.0
+Biology,26,6.0,2.59,9.0,11.0
+Core Mathematics,24,48.0,2.66,15.0,6.0
+Biology,22,56.0,3.13,12.0,
+computer and information technology,27,19.0,2.77,15.0,1.0
+Biology,22,2.0,3.45,18.0,6.0
+Data Science,22,70.0,3.55,12.0,8.0
+biology,25,58.0,3.64,18.0,
+Mathematics/Computer Science,22,39.0,2.65,12.0,
+Computer and Information Technology,24,16.0,3.33,,7.0
+Applied Statistics,23,56.0,3.25,9.0,17.0
+chemistry,25,83.0,3.66,,9.0
+chemistry,22,29.0,,12.0,2.0
+biology,22,92.0,2.62,18.0,17.0
+chemistry,27,69.0,3.74,18.0,16.0
+Pre-Medical,27,23.0,3.13,6.0,
+computer and information technology,25,43.0,2.7,6.0,2.0
+Data Science,25,,3.92,,7.0
+Core Mathematics,26,,2.83,18.0,0.0
+Physics,,9.0,2.82,15.0,4.0
+Physics,25,41.0,3.04,9.0,8.0
+Physics,25,62.0,,12.0,4.0
+chemistry,,8.0,3.13,,13.0
+computer science,27,84.0,2.75,3.0,3.0
+Physics,26,29.0,3.62,6.0,10.0
+Data Science,24,31.0,3.04,15.0,15.0
+computer and information technology,26,88.0,3.48,12.0,8.0
+Mechanical Engineering,27,65.0,3.36,,9.0
+Biochemistry,22,14.0,2.72,12.0,1.0
+Electrical Engineering,24,,,6.0,9.0
+Computer Science,27,31.0,3.84,18.0,0.0
+Pre-Medical,27,4.0,3.33,15.0,14.0
+First Year Engineering,,,3.67,15.0,2.0
+Biochemistry,24,90.0,2.93,6.0,
+Pre-Medical,24,5.0,2.94,,
+Mechanical Engineering,24,,2.75,,11.0
+Mathematics/Computer Science,25,71.0,2.97,18.0,0.0
+Computer and Information Technology,26,79.0,3.09,18.0,15.0
+chemistry,23,95.0,2.85,9.0,0.0
+data science,27,54.0,3.29,3.0,16.0
+applied mathematics,23,71.0,3.54,12.0,
+Physics,22,51.0,3.76,12.0,0.0
+biology,26,,2.8,3.0,14.0
+biology,23,35.0,,15.0,4.0
+Computer Science,23,64.0,2.97,6.0,17.0
+Applied Statistics,25,,2.51,15.0,8.0
+Biology,27,53.0,3.83,12.0,7.0
+Mathematics/Computer Science,26,61.0,2.66,12.0,
+Computer and Information Technology,27,68.0,3.4,18.0,5.0
+Mathematics/Computer Science,,15.0,,3.0,16.0
+data science,26,,3.29,18.0,4.0
+chemistry,25,73.0,3.92,15.0,5.0
+Computer and Information Technology,24,84.0,2.92,12.0,7.0
+Physics,24,6.0,3.42,18.0,12.0
+Physics,24,6.0,3.28,3.0,17.0
+biology,24,4.0,2.86,6.0,
+Mathematics/Computer Science,27,53.0,3.48,3.0,4.0
+Computer Science,24,,3.95,6.0,10.0
+Biology,24,82.0,2.87,9.0,3.0
+Computer and Information Technology,24,81.0,2.81,6.0,14.0
+Physics,24,22.0,,9.0,5.0
+chemistry,22,2.0,,18.0,2.0
+data science,22,,3.28,15.0,2.0
+Data Science,23,33.0,2.94,6.0,17.0
+data science,,91.0,3.6,6.0,11.0
+Computer Science,25,55.0,,18.0,2.0
+Applied Statistics,27,,2.87,18.0,12.0
+Biology,,96.0,3.92,3.0,15.0
+Electrical Engineering,23,64.0,2.79,18.0,14.0
+Pre-Medical,27,14.0,2.94,3.0,8.0
+Data Science,26,76.0,3.24,6.0,4.0
+data science,25,32.0,3.7,18.0,0.0
+Applied Statistics,,29.0,3.34,18.0,0.0
+computer science,27,74.0,2.97,3.0,4.0
+Data Science,25,16.0,2.5,3.0,17.0
+Biology,27,60.0,3.34,12.0,4.0
+Computer and Information Technology,27,31.0,3.14,15.0,2.0
+Computer and Information Technology,26,,2.73,,13.0
+Mechanical Engineering,26,54.0,3.65,3.0,
+chemistry,27,5.0,3.86,12.0,
+data science,24,25.0,3.01,18.0,9.0
+Physics,24,54.0,3.73,6.0,6.0
+Biochemistry,24,,3.28,6.0,1.0
+Mathematics/Computer Science,22,6.0,2.6,18.0,
+computer science,26,18.0,3.71,9.0,8.0
+Core Mathematics,25,,,6.0,
+Biology,25,88.0,3.94,12.0,9.0
+Pre-Medical,23,9.0,3.55,,9.0
+Applied Statistics,,12.0,,,2.0
+Pre-Medical,25,9.0,2.76,3.0,6.0
+First Year Engineering,23,,2.91,3.0,16.0
+Physics,27,46.0,2.71,12.0,13.0
+Mathematics/Computer Science,27,17.0,,6.0,11.0
+Physics,23,61.0,3.05,12.0,6.0
+First Year Engineering,,29.0,3.41,12.0,14.0
+biology,26,75.0,3.99,6.0,16.0
+Biology,25,16.0,,15.0,5.0
+Electrical Engineering,,97.0,,18.0,15.0
+Mechanical Engineering,26,89.0,2.85,15.0,6.0
+biology,24,35.0,2.59,12.0,2.0
+Applied Statistics,25,,,6.0,16.0
+Mechanical Engineering,24,73.0,3.6,3.0,8.0
+Mechanical Engineering,26,71.0,,9.0,2.0
+Biology,27,50.0,2.83,3.0,5.0
+applied mathematics,,12.0,2.74,3.0,1.0
+Biology,23,21.0,3.74,9.0,12.0
+Applied Statistics,26,83.0,,12.0,12.0
+Biochemistry,,66.0,,15.0,6.0
+Mathematics/Computer Science,25,38.0,3.25,12.0,12.0
+Biology,26,85.0,3.63,3.0,7.0
+Mathematics/Computer Science,26,,2.71,18.0,4.0
+Physics,22,97.0,3.87,6.0,14.0
+Biochemistry,22,92.0,3.05,18.0,15.0
+chemistry,23,58.0,2.95,,14.0
+First Year Engineering,23,70.0,3.24,18.0,5.0
+Mathematics/Computer Science,26,56.0,3.99,6.0,0.0
+Biology,,7.0,3.66,6.0,
+data science,25,3.0,3.37,6.0,16.0
+Data Science,25,49.0,2.92,9.0,13.0
+Electrical Engineering,27,19.0,3.5,6.0,8.0
+Data Science,,94.0,3.65,18.0,8.0
+computer science,,39.0,2.87,3.0,0.0
+data science,,49.0,3.85,3.0,2.0
+Pre-Medical,,31.0,2.78,12.0,6.0
+chemistry,,78.0,2.84,9.0,4.0
+Applied Statistics,22,94.0,2.67,15.0,17.0
+Biochemistry,27,84.0,3.16,12.0,12.0
+Applied Statistics,22,38.0,3.22,18.0,6.0
+Applied Statistics,,43.0,2.88,,
+Applied Statistics,27,,3.11,15.0,13.0
+Core Mathematics,23,53.0,2.58,15.0,16.0
+Pre-Medical,24,7.0,3.22,18.0,16.0
+data science,22,71.0,3.62,3.0,11.0
+Biochemistry,27,70.0,2.63,15.0,7.0
+Physics,27,22.0,2.67,15.0,0.0
+applied mathematics,27,,3.07,18.0,10.0
+Computer Science,27,25.0,3.43,15.0,6.0
+Data Science,23,66.0,3.78,3.0,1.0
+Mechanical Engineering,27,27.0,3.86,18.0,12.0
+Applied Statistics,27,19.0,3.43,3.0,1.0
+Computer and Information Technology,25,92.0,,6.0,6.0
+Data Science,24,32.0,,18.0,3.0
+Pre-Medical,26,51.0,2.91,9.0,4.0
+Data Science,25,78.0,3.39,9.0,11.0
+Core Mathematics,26,39.0,2.82,,9.0
+Electrical Engineering,25,10.0,3.88,9.0,17.0
+data science,27,54.0,3.88,18.0,7.0
+Core Mathematics,,86.0,3.42,12.0,10.0
+Pre-Medical,22,54.0,3.61,12.0,0.0
+Mechanical Engineering,22,3.0,,3.0,14.0
+Mathematics/Computer Science,22,19.0,3.79,9.0,14.0
+Computer Science,26,,3.49,9.0,5.0
+computer and information technology,22,64.0,3.61,12.0,12.0
+applied mathematics,25,67.0,3.36,3.0,12.0
+computer and information technology,22,93.0,3.32,6.0,0.0
+Core Mathematics,26,19.0,2.51,,8.0
+First Year Engineering,22,52.0,3.26,,8.0
+Mathematics/Computer Science,23,43.0,2.7,12.0,6.0
+computer science,27,0.0,3.41,3.0,
+chemistry,23,24.0,3.9,15.0,4.0
+computer and information technology,23,,2.75,9.0,10.0
+Mathematics/Computer Science,25,,3.57,3.0,12.0
+Biology,23,8.0,2.73,3.0,4.0
+applied mathematics,25,91.0,3.49,6.0,14.0
+Computer Science,25,34.0,3.83,,5.0
+Physics,,83.0,3.72,9.0,13.0
+First Year Engineering,25,,3.17,12.0,11.0
+Data Science,25,,3.17,9.0,8.0
+Computer Science,26,22.0,3.84,6.0,3.0
+Physics,,73.0,3.81,15.0,10.0
+data science,25,27.0,,18.0,5.0
+Physics,22,97.0,3.11,6.0,
+Data Science,25,88.0,3.01,6.0,
+applied mathematics,24,55.0,2.99,6.0,3.0
+Mechanical Engineering,25,8.0,2.56,18.0,4.0
+Biology,23,62.0,3.34,12.0,2.0
+chemistry,23,64.0,3.8,9.0,
+Applied Statistics,23,81.0,2.85,6.0,17.0
+Biochemistry,26,98.0,3.33,15.0,9.0
+applied mathematics,23,33.0,3.27,15.0,14.0
+Mathematics/Computer Science,23,43.0,2.66,3.0,5.0
+Physics,22,96.0,2.96,3.0,
+Core Mathematics,26,29.0,3.78,3.0,4.0
+Data Science,24,9.0,3.35,6.0,14.0
+Core Mathematics,22,83.0,3.17,12.0,9.0
+computer and information technology,25,72.0,2.82,12.0,10.0
+Computer Science,25,3.0,3.94,3.0,3.0
+Core Mathematics,26,53.0,2.54,,6.0
+chemistry,23,54.0,3.11,6.0,17.0
+First Year Engineering,27,14.0,3.1,12.0,17.0
+chemistry,22,46.0,3.02,18.0,5.0
+Pre-Medical,,45.0,3.1,15.0,4.0
+Biology,24,46.0,3.89,15.0,15.0
+Electrical Engineering,26,14.0,3.29,6.0,15.0
+computer science,26,70.0,,18.0,7.0
+Computer and Information Technology,26,84.0,3.59,6.0,10.0
+biology,22,14.0,3.23,15.0,
+Biochemistry,23,9.0,3.33,12.0,4.0
+Applied Statistics,26,56.0,2.71,3.0,9.0
+Physics,22,10.0,,9.0,8.0
+biology,26,81.0,3.08,9.0,15.0
+Biology,24,77.0,2.64,18.0,7.0
+computer science,24,91.0,2.72,6.0,
+Computer and Information Technology,22,52.0,2.96,15.0,4.0
+Mechanical Engineering,,28.0,3.45,15.0,14.0
+Data Science,22,16.0,2.6,6.0,6.0
+Mechanical Engineering,22,83.0,,3.0,5.0
+Mathematics/Computer Science,27,46.0,,12.0,11.0
+Core Mathematics,26,19.0,3.45,,5.0
+Biochemistry,,19.0,3.46,18.0,
+computer science,22,46.0,2.79,12.0,7.0
+Core Mathematics,27,78.0,3.35,3.0,13.0
+Biochemistry,22,85.0,3.41,12.0,
+Data Science,26,93.0,3.2,,0.0
+Biology,23,7.0,3.21,15.0,13.0
+applied mathematics,24,10.0,2.94,3.0,10.0
+First Year Engineering,23,30.0,3.04,18.0,11.0
+Electrical Engineering,24,14.0,3.56,15.0,10.0
+chemistry,23,73.0,3.77,15.0,5.0
+Computer Science,27,78.0,,12.0,17.0
+Biochemistry,24,68.0,3.13,18.0,8.0
+applied mathematics,22,,3.93,9.0,8.0
+computer and information technology,27,50.0,3.43,18.0,11.0
+Mechanical Engineering,25,20.0,2.87,12.0,7.0
+Pre-Medical,26,78.0,3.89,15.0,
+Biochemistry,23,88.0,2.95,12.0,10.0
+Data Science,24,44.0,3.91,18.0,7.0
+Core Mathematics,22,49.0,3.21,3.0,5.0
+computer and information technology,,93.0,3.74,,15.0
+Mathematics/Computer Science,25,82.0,3.08,6.0,14.0
+First Year Engineering,25,2.0,2.71,6.0,3.0
+Core Mathematics,27,6.0,2.55,6.0,0.0
+computer and information technology,,,2.64,12.0,4.0
+Pre-Medical,,78.0,3.59,15.0,
+Mechanical Engineering,24,74.0,3.72,3.0,11.0
+Data Science,27,46.0,2.89,18.0,
+applied mathematics,25,17.0,3.99,3.0,11.0
+applied mathematics,27,12.0,,12.0,
+First Year Engineering,26,40.0,2.6,15.0,11.0
+Physics,22,3.0,3.22,,14.0
+Biochemistry,27,78.0,3.55,,2.0
+computer science,27,49.0,3.7,,7.0
+Computer and Information Technology,23,,3.76,9.0,10.0
+Computer Science,26,97.0,2.64,15.0,10.0
+Computer Science,,99.0,3.42,18.0,10.0
+chemistry,25,,3.51,15.0,1.0
+Pre-Medical,23,,3.86,9.0,1.0
+chemistry,22,46.0,2.65,12.0,2.0
+Pre-Medical,26,2.0,3.64,9.0,15.0
+Electrical Engineering,27,16.0,2.88,12.0,4.0
+computer science,25,94.0,3.83,15.0,
+Pre-Medical,26,95.0,3.95,9.0,12.0
+Biochemistry,22,79.0,3.82,6.0,
+Computer Science,,,2.73,18.0,8.0
+Biology,22,62.0,3.7,3.0,12.0
+Pre-Medical,,56.0,3.69,6.0,10.0
+data science,24,37.0,3.15,,2.0
+computer and information technology,27,,2.8,18.0,16.0
+applied mathematics,27,50.0,3.65,15.0,6.0
+computer science,26,87.0,3.73,9.0,16.0
+Biology,,93.0,2.75,18.0,11.0
+Core Mathematics,27,81.0,3.41,9.0,13.0
+Core Mathematics,24,86.0,3.41,18.0,5.0
+Biology,24,2.0,3.43,,5.0
+Data Science,25,29.0,3.09,18.0,1.0
+Biochemistry,27,41.0,2.5,18.0,3.0
+Computer and Information Technology,26,75.0,3.79,6.0,14.0
+applied mathematics,26,98.0,3.64,3.0,
+Applied Statistics,22,40.0,3.05,6.0,7.0
+applied mathematics,27,94.0,2.61,15.0,14.0
+Biology,23,36.0,3.93,15.0,13.0
+computer and information technology,27,87.0,2.52,18.0,17.0
+Applied Statistics,23,3.0,3.86,12.0,8.0
+applied mathematics,23,3.0,2.5,,3.0
+Biology,27,29.0,2.53,15.0,10.0
+Mathematics/Computer Science,,12.0,,3.0,13.0
+Electrical Engineering,22,95.0,,12.0,17.0
+Computer Science,,75.0,3.01,9.0,7.0
+Data Science,,18.0,3.35,15.0,9.0
+Biology,23,52.0,3.0,,5.0
+Physics,26,76.0,3.16,9.0,11.0
+Electrical Engineering,24,51.0,3.1,9.0,
+Core Mathematics,25,72.0,2.75,15.0,8.0
+Biology,25,47.0,,6.0,15.0
+Mechanical Engineering,,77.0,3.55,15.0,16.0
+Applied Statistics,26,88.0,3.16,3.0,9.0
+data science,24,,3.0,12.0,4.0
+Mechanical Engineering,27,91.0,2.78,,5.0
+Biology,27,31.0,3.07,15.0,0.0
+Mathematics/Computer Science,24,97.0,3.93,18.0,1.0
+Mathematics/Computer Science,24,11.0,2.59,6.0,2.0
+Pre-Medical,27,2.0,,9.0,4.0
+Pre-Medical,25,8.0,2.75,12.0,17.0
+Electrical Engineering,22,81.0,2.72,12.0,4.0
+data science,27,8.0,,12.0,13.0
+Biochemistry,24,48.0,2.7,6.0,10.0
+Biology,25,81.0,,18.0,4.0
+Data Science,27,15.0,3.33,12.0,9.0
+Applied Statistics,,57.0,2.98,18.0,14.0
+Mathematics/Computer Science,24,40.0,3.22,,7.0
+Data Science,22,69.0,2.78,6.0,8.0
+Data Science,24,22.0,3.22,9.0,13.0
+Applied Statistics,25,,3.04,18.0,2.0
+First Year Engineering,23,48.0,,3.0,7.0
+Core Mathematics,26,15.0,2.8,,16.0
+Biology,23,12.0,3.29,15.0,13.0
+Data Science,27,53.0,2.73,,5.0
+Core Mathematics,26,92.0,,18.0,5.0
+Biochemistry,25,32.0,3.84,9.0,13.0
+Physics,24,50.0,2.78,3.0,11.0
+Applied Statistics,26,89.0,3.82,18.0,0.0
+Mathematics/Computer Science,25,42.0,3.32,6.0,12.0
+Computer and Information Technology,23,66.0,2.55,12.0,3.0
+Core Mathematics,27,71.0,3.86,15.0,4.0
+chemistry,24,80.0,3.44,6.0,10.0
+biology,26,78.0,3.09,,4.0
+biology,26,,3.64,15.0,7.0
+chemistry,23,51.0,2.82,3.0,3.0
+Mechanical Engineering,25,29.0,3.77,12.0,6.0
+First Year Engineering,24,61.0,3.03,18.0,
+Mathematics/Computer Science,24,17.0,2.87,9.0,5.0
+computer science,23,10.0,2.98,6.0,17.0
+Biology,25,44.0,3.95,12.0,13.0
+data science,,87.0,,12.0,4.0
+Computer and Information Technology,26,14.0,2.9,6.0,
+Computer and Information Technology,26,93.0,3.35,3.0,10.0
+Biology,27,58.0,3.73,6.0,10.0
+Physics,22,65.0,2.8,18.0,
+computer science,22,40.0,3.31,15.0,10.0
+biology,,21.0,,12.0,16.0
+First Year Engineering,26,24.0,2.79,12.0,2.0
+Computer Science,24,16.0,3.39,12.0,
+Core Mathematics,25,21.0,3.89,12.0,6.0
+Pre-Medical,23,,3.83,15.0,5.0
+Core Mathematics,25,20.0,3.99,6.0,
+Mechanical Engineering,,3.0,3.46,6.0,8.0
+Data Science,22,,,12.0,10.0
+Biochemistry,24,98.0,3.58,12.0,13.0
+computer and information technology,22,12.0,3.24,12.0,7.0
+Core Mathematics,27,61.0,3.69,9.0,
+Mathematics/Computer Science,24,71.0,3.96,15.0,10.0
+Computer and Information Technology,23,35.0,2.95,15.0,1.0
+biology,24,1.0,2.81,9.0,2.0
+computer science,22,11.0,3.58,18.0,15.0
+computer science,22,7.0,3.81,9.0,9.0
+Pre-Medical,26,1.0,3.34,15.0,
+computer science,25,93.0,3.02,18.0,17.0
+Mechanical Engineering,25,61.0,3.11,15.0,15.0
+computer and information technology,23,22.0,3.08,,2.0
+Electrical Engineering,23,,3.34,12.0,7.0
+biology,27,41.0,,6.0,4.0
+Applied Statistics,24,82.0,3.69,6.0,10.0
+Physics,23,62.0,3.19,9.0,16.0
+Computer and Information Technology,24,13.0,2.95,18.0,13.0
+Pre-Medical,25,1.0,2.79,,3.0
+biology,24,81.0,3.74,,0.0
+Electrical Engineering,22,75.0,2.83,18.0,0.0
+Biology,22,61.0,3.5,9.0,1.0
+Applied Statistics,25,12.0,2.83,6.0,10.0
+Applied Statistics,27,,3.83,9.0,5.0
+computer science,22,81.0,2.68,3.0,9.0
+Mechanical Engineering,25,26.0,,9.0,11.0
+chemistry,22,27.0,2.77,3.0,3.0
+chemistry,25,20.0,3.35,3.0,13.0
+chemistry,27,31.0,2.59,,
+Computer and Information Technology,26,70.0,3.07,3.0,11.0
+Computer and Information Technology,25,78.0,2.53,6.0,12.0
+Biochemistry,24,44.0,3.64,6.0,15.0
+First Year Engineering,23,86.0,3.74,,4.0
+Physics,23,91.0,2.64,,7.0
+chemistry,,56.0,3.96,12.0,12.0
+Biology,22,62.0,2.93,9.0,
+Computer Science,23,,2.51,18.0,1.0
+applied mathematics,24,,3.07,3.0,16.0
+applied mathematics,23,96.0,3.44,9.0,15.0
+Physics,,90.0,3.08,3.0,15.0
+Computer Science,27,34.0,3.72,18.0,13.0
+Computer and Information Technology,22,97.0,3.69,,17.0
+Applied Statistics,25,86.0,2.8,6.0,13.0
+computer science,24,5.0,2.79,12.0,14.0
+Electrical Engineering,25,83.0,3.53,3.0,12.0
+chemistry,25,44.0,2.58,9.0,3.0
+Biochemistry,24,4.0,,12.0,1.0
+Data Science,,12.0,3.36,3.0,11.0
+First Year Engineering,24,92.0,3.9,18.0,2.0
+Computer Science,22,13.0,3.5,12.0,12.0
+Pre-Medical,25,6.0,3.04,3.0,0.0
+Computer and Information Technology,27,94.0,3.05,18.0,14.0
+Mechanical Engineering,26,98.0,3.5,9.0,15.0
+computer science,26,78.0,3.32,9.0,11.0
+Applied Statistics,26,52.0,,12.0,13.0
+Computer Science,23,71.0,2.84,6.0,17.0
+Mechanical Engineering,26,73.0,3.55,6.0,8.0
+applied mathematics,26,25.0,2.71,,7.0
+computer science,26,82.0,3.43,9.0,14.0
+Biology,27,39.0,3.97,15.0,
+applied mathematics,23,63.0,2.92,18.0,7.0
+chemistry,27,91.0,3.18,18.0,6.0
+Computer and Information Technology,27,8.0,3.94,12.0,2.0
+Electrical Engineering,23,,2.93,9.0,14.0
+Data Science,22,,,15.0,7.0
+Computer Science,22,58.0,2.78,6.0,1.0
+data science,26,49.0,,18.0,10.0
+Core Mathematics,27,32.0,3.12,3.0,16.0
+Pre-Medical,22,81.0,3.52,18.0,12.0
+computer science,22,18.0,,12.0,13.0
+Data Science,26,40.0,,15.0,9.0
+Pre-Medical,25,75.0,3.98,15.0,7.0
+Computer and Information Technology,26,66.0,2.66,6.0,7.0
+Computer Science,26,50.0,3.52,15.0,14.0
+Mathematics/Computer Science,22,45.0,2.59,9.0,3.0
+biology,26,12.0,2.61,9.0,13.0
+Core Mathematics,24,22.0,2.93,9.0,6.0
+chemistry,22,58.0,3.64,3.0,0.0
+biology,22,42.0,2.69,3.0,4.0
+Biochemistry,26,96.0,3.99,6.0,11.0
+Pre-Medical,23,61.0,2.51,9.0,4.0
+Computer and Information Technology,27,,3.48,3.0,
+Biology,,27.0,3.12,6.0,9.0
+chemistry,24,31.0,2.67,6.0,12.0
+Electrical Engineering,24,38.0,3.14,12.0,17.0
+data science,25,15.0,3.37,12.0,17.0
+computer science,25,85.0,2.51,12.0,1.0
+Applied Statistics,23,47.0,2.93,9.0,5.0
+Data Science,22,,2.96,6.0,2.0
+chemistry,23,51.0,3.41,18.0,
+Electrical Engineering,23,64.0,2.65,,9.0
+Computer and Information Technology,,51.0,3.94,6.0,4.0
+Biochemistry,27,80.0,3.64,15.0,
+Electrical Engineering,,4.0,,9.0,
+Physics,27,18.0,3.52,9.0,9.0
+computer and information technology,,,3.64,12.0,14.0
+computer and information technology,27,,3.16,3.0,11.0
+Mechanical Engineering,27,68.0,2.64,12.0,12.0
+Applied Statistics,23,8.0,3.29,6.0,5.0
+applied mathematics,22,15.0,,12.0,6.0
+computer science,27,26.0,3.3,9.0,14.0
+First Year Engineering,25,50.0,2.65,3.0,9.0
+applied mathematics,23,35.0,3.08,12.0,8.0
+Mechanical Engineering,25,76.0,3.49,15.0,
+Mechanical Engineering,22,40.0,,6.0,7.0
+Mechanical Engineering,24,9.0,3.91,3.0,3.0
+Physics,25,70.0,3.5,6.0,5.0
+applied mathematics,27,79.0,3.89,9.0,12.0
+Physics,24,10.0,3.75,3.0,14.0
+Computer and Information Technology,24,32.0,3.7,18.0,8.0
+computer and information technology,27,83.0,3.47,12.0,12.0
+computer science,27,49.0,,3.0,3.0
+computer and information technology,23,,3.7,3.0,3.0
+Physics,,43.0,2.58,3.0,2.0
+computer science,23,97.0,3.07,6.0,17.0
+First Year Engineering,26,43.0,3.58,6.0,8.0
+chemistry,24,69.0,2.83,3.0,2.0
+Applied Statistics,27,48.0,,3.0,15.0
+applied mathematics,,86.0,3.73,15.0,
+Mathematics/Computer Science,25,23.0,3.93,9.0,1.0
+data science,24,13.0,2.6,12.0,13.0
+Mechanical Engineering,24,30.0,3.48,15.0,
+Mechanical Engineering,25,89.0,3.96,12.0,14.0
+First Year Engineering,22,79.0,3.61,12.0,
+Biology,27,61.0,3.04,18.0,5.0
+Core Mathematics,27,0.0,3.27,18.0,9.0
+Applied Statistics,25,26.0,,15.0,1.0
+Physics,24,12.0,2.51,3.0,1.0
+Computer Science,24,95.0,2.69,9.0,13.0
+Data Science,24,64.0,2.9,15.0,4.0
+Core Mathematics,27,68.0,3.53,3.0,
+computer science,24,13.0,2.58,18.0,8.0
+data science,26,12.0,3.2,9.0,7.0
+Computer Science,26,0.0,2.98,3.0,15.0
+Mathematics/Computer Science,26,67.0,3.63,3.0,11.0
+computer and information technology,25,8.0,2.95,12.0,6.0
+Pre-Medical,24,55.0,3.51,9.0,10.0
+Core Mathematics,27,,3.5,3.0,3.0
+chemistry,23,86.0,,18.0,3.0
+computer and information technology,22,34.0,3.5,3.0,0.0
+computer science,23,90.0,3.41,,10.0
+First Year Engineering,23,43.0,2.82,9.0,15.0
+data science,26,6.0,3.23,9.0,14.0
+Biology,,55.0,2.83,18.0,9.0
+Biology,22,76.0,3.67,9.0,12.0
+Computer Science,25,20.0,3.19,9.0,7.0
+Data Science,22,75.0,3.65,3.0,16.0
+data science,27,3.0,3.7,,
+Data Science,,12.0,3.88,,6.0
+Applied Statistics,25,49.0,3.49,18.0,14.0
+Physics,26,51.0,2.75,15.0,2.0
+applied mathematics,26,36.0,2.72,,11.0
+First Year Engineering,22,95.0,3.03,15.0,1.0
+Data Science,25,71.0,2.77,15.0,15.0
+data science,,99.0,2.99,18.0,
+Pre-Medical,25,74.0,3.61,9.0,
+Mathematics/Computer Science,26,60.0,2.8,3.0,2.0
+Computer and Information Technology,26,79.0,2.63,12.0,10.0
+Computer and Information Technology,22,55.0,3.09,18.0,0.0
+data science,26,42.0,3.12,,8.0
+Core Mathematics,26,99.0,,18.0,6.0
+Computer Science,27,97.0,3.47,18.0,0.0
+Applied Statistics,24,80.0,3.62,6.0,2.0
+applied mathematics,23,38.0,3.9,12.0,10.0
+Electrical Engineering,27,63.0,3.21,6.0,11.0
+Pre-Medical,24,37.0,3.19,3.0,
+Core Mathematics,23,,,15.0,10.0
+First Year Engineering,23,52.0,2.5,18.0,11.0
+Biology,25,13.0,3.06,9.0,3.0
+chemistry,22,78.0,3.73,3.0,14.0
+Computer and Information Technology,24,43.0,3.81,9.0,12.0
+applied mathematics,24,73.0,3.86,15.0,5.0
+First Year Engineering,,,2.74,18.0,8.0
+computer and information technology,,96.0,3.92,3.0,3.0
+Mathematics/Computer Science,25,52.0,2.92,3.0,16.0
+Physics,,77.0,3.77,3.0,6.0
+chemistry,24,52.0,3.36,18.0,0.0
+chemistry,24,28.0,2.82,9.0,12.0
+computer science,25,55.0,3.98,15.0,7.0
+Physics,27,7.0,2.53,9.0,
+Core Mathematics,27,,3.49,15.0,1.0
+applied mathematics,25,,3.06,12.0,10.0
+Pre-Medical,26,99.0,3.47,9.0,7.0
+Biochemistry,27,,2.75,12.0,3.0
+Electrical Engineering,23,73.0,,18.0,16.0
+Data Science,26,,3.46,6.0,2.0
+First Year Engineering,24,,3.52,18.0,5.0
+data science,25,87.0,3.49,9.0,13.0
+Computer and Information Technology,22,61.0,3.62,15.0,15.0
+Physics,,5.0,3.6,15.0,
+First Year Engineering,23,18.0,3.27,3.0,10.0
+First Year Engineering,26,,2.53,6.0,3.0
+applied mathematics,22,33.0,3.0,3.0,16.0
+First Year Engineering,27,26.0,3.77,18.0,0.0
+First Year Engineering,27,56.0,3.89,3.0,5.0
+Biology,25,38.0,3.13,18.0,2.0
+Mechanical Engineering,22,90.0,2.61,3.0,4.0
+Biology,23,80.0,3.91,3.0,13.0
+Physics,25,22.0,3.68,18.0,9.0
+Computer Science,25,27.0,3.14,18.0,1.0
+computer science,26,52.0,3.71,3.0,6.0
+Mechanical Engineering,24,57.0,3.34,9.0,2.0
+Biochemistry,25,2.0,2.52,3.0,9.0
+Biology,23,34.0,2.72,15.0,14.0
+Physics,27,,3.53,18.0,8.0
+Computer Science,22,54.0,,6.0,14.0
+Mechanical Engineering,26,4.0,2.64,15.0,8.0
+Core Mathematics,27,56.0,2.54,6.0,11.0
+Biochemistry,24,85.0,2.89,6.0,6.0
+computer and information technology,25,45.0,3.03,,16.0
+computer science,23,86.0,3.66,18.0,1.0
+chemistry,25,79.0,2.56,15.0,6.0
+Mechanical Engineering,27,29.0,3.54,6.0,13.0
+First Year Engineering,26,26.0,,6.0,12.0
+computer and information technology,27,15.0,3.71,6.0,7.0
+Core Mathematics,24,,2.56,,6.0
+computer science,26,61.0,3.45,9.0,16.0
+applied mathematics,,82.0,3.15,12.0,13.0
+Computer and Information Technology,25,58.0,,6.0,
+Electrical Engineering,27,32.0,3.5,12.0,9.0
+Pre-Medical,26,0.0,2.74,9.0,9.0
+Applied Statistics,,15.0,3.53,18.0,4.0
+Computer and Information Technology,25,67.0,2.69,12.0,9.0
+Data Science,23,,3.74,12.0,17.0
+applied mathematics,23,37.0,2.88,6.0,11.0
+computer and information technology,,,2.62,18.0,6.0
+Computer Science,24,,2.61,3.0,17.0
+Applied Statistics,22,12.0,2.96,,9.0
+Core Mathematics,,39.0,3.94,18.0,17.0
+First Year Engineering,22,64.0,3.43,3.0,16.0
+data science,25,,3.7,6.0,5.0
+computer science,22,70.0,3.47,3.0,15.0
+Core Mathematics,25,5.0,3.24,3.0,10.0
+Biology,26,7.0,3.4,15.0,
+Physics,23,11.0,3.75,15.0,16.0
+applied mathematics,25,34.0,3.21,18.0,0.0
+data science,25,32.0,3.95,6.0,6.0
+Computer and Information Technology,25,24.0,3.85,15.0,10.0
+Physics,22,46.0,3.97,15.0,7.0
+Computer Science,24,63.0,3.53,15.0,11.0
+Biology,23,95.0,3.81,3.0,8.0
+chemistry,27,64.0,3.8,15.0,9.0
+Computer and Information Technology,25,55.0,2.6,6.0,6.0
+data science,27,80.0,2.52,18.0,1.0
+Physics,27,29.0,2.62,12.0,17.0
+Mathematics/Computer Science,25,81.0,3.86,3.0,1.0
+Biochemistry,24,7.0,2.89,9.0,13.0
+Physics,25,97.0,2.91,18.0,2.0
+Data Science,26,17.0,3.66,,
+computer and information technology,24,15.0,3.5,6.0,11.0
+computer and information technology,26,28.0,3.18,,2.0
+biology,,,2.94,,1.0
+Pre-Medical,22,16.0,,9.0,
+Applied Statistics,24,19.0,,15.0,
+data science,27,28.0,3.14,9.0,
+Pre-Medical,23,30.0,3.19,15.0,4.0
+Electrical Engineering,26,21.0,3.18,18.0,13.0
+Data Science,,21.0,2.59,6.0,9.0
+Applied Statistics,25,,3.96,9.0,1.0
+Pre-Medical,23,37.0,3.4,6.0,3.0
+Core Mathematics,22,32.0,3.48,3.0,2.0
+Data Science,24,83.0,3.95,,7.0
+applied mathematics,27,92.0,2.56,12.0,
+Biochemistry,26,7.0,3.98,,9.0
+Mathematics/Computer Science,27,46.0,3.43,6.0,11.0
+Biology,22,45.0,3.05,3.0,10.0
+computer science,27,50.0,3.08,9.0,7.0
+Applied Statistics,22,35.0,2.6,9.0,8.0
+biology,23,75.0,2.83,15.0,6.0
+Mechanical Engineering,25,,3.81,6.0,1.0
+chemistry,27,25.0,3.35,3.0,4.0
+applied mathematics,26,84.0,2.88,9.0,7.0
+Data Science,22,65.0,2.67,18.0,8.0
+Biology,23,54.0,3.84,3.0,2.0
+computer and information technology,,,3.54,12.0,15.0
+computer and information technology,25,62.0,,12.0,2.0
+Applied Statistics,24,5.0,2.99,15.0,4.0
+Computer and Information Technology,27,51.0,3.7,3.0,6.0
+Electrical Engineering,26,38.0,2.88,15.0,6.0
+data science,,70.0,,,0.0
+Applied Statistics,23,60.0,2.84,18.0,1.0
+chemistry,25,27.0,,3.0,16.0
+Data Science,22,53.0,2.63,3.0,10.0
+Mathematics/Computer Science,26,66.0,2.85,18.0,9.0
+Computer Science,22,88.0,2.54,18.0,4.0
+Mechanical Engineering,22,81.0,3.04,9.0,14.0
+First Year Engineering,25,1.0,3.75,9.0,
+Mechanical Engineering,22,72.0,3.19,12.0,
+First Year Engineering,27,73.0,2.7,12.0,4.0
+Mathematics/Computer Science,24,54.0,3.32,12.0,3.0
+Biochemistry,24,22.0,2.62,12.0,9.0
+Applied Statistics,24,12.0,2.75,9.0,7.0
+applied mathematics,23,36.0,3.96,15.0,5.0
+computer and information technology,24,20.0,2.73,15.0,7.0
+Mathematics/Computer Science,22,26.0,3.65,3.0,12.0
+biology,27,49.0,3.06,,17.0
+computer science,25,44.0,3.82,9.0,
+Electrical Engineering,24,,3.03,6.0,1.0
+Electrical Engineering,22,,,9.0,16.0
+Biology,26,57.0,2.58,6.0,0.0
+Data Science,22,58.0,,,8.0
+applied mathematics,23,17.0,2.6,18.0,15.0
+data science,,16.0,3.81,,14.0
+Physics,27,82.0,3.98,,2.0
+Pre-Medical,,33.0,3.71,12.0,8.0
+Computer Science,26,85.0,3.78,9.0,9.0
+Mechanical Engineering,,53.0,3.21,18.0,
+Data Science,24,83.0,3.5,6.0,11.0
+chemistry,24,29.0,3.47,18.0,4.0
+Pre-Medical,22,86.0,3.31,18.0,
+Computer Science,23,23.0,3.86,12.0,11.0
+Electrical Engineering,23,64.0,3.75,6.0,0.0
+Pre-Medical,25,63.0,2.58,3.0,
+First Year Engineering,25,,3.15,9.0,8.0
+computer science,22,,3.27,12.0,3.0
+applied mathematics,22,50.0,2.79,,9.0
+Data Science,24,71.0,3.85,9.0,5.0
+computer and information technology,,53.0,,3.0,4.0
+Pre-Medical,27,98.0,3.55,15.0,3.0
+Core Mathematics,24,83.0,2.95,9.0,13.0
+Mechanical Engineering,22,51.0,3.04,9.0,13.0
+Biology,24,3.0,3.13,9.0,0.0
+Applied Statistics,,0.0,3.65,3.0,11.0
+Mathematics/Computer Science,23,98.0,2.51,15.0,16.0
+Electrical Engineering,25,99.0,3.65,6.0,1.0
+Data Science,27,86.0,3.46,15.0,
+Applied Statistics,24,75.0,2.74,15.0,15.0
+Mechanical Engineering,,76.0,,6.0,15.0
+Data Science,25,23.0,3.17,18.0,6.0
+First Year Engineering,24,53.0,2.64,9.0,2.0
+Biochemistry,27,23.0,3.82,6.0,7.0
+computer science,26,71.0,3.55,6.0,6.0
+Mathematics/Computer Science,,,3.34,18.0,
+Computer Science,26,77.0,2.6,3.0,12.0
+First Year Engineering,,,3.38,6.0,
+Physics,27,59.0,3.06,,13.0
+applied mathematics,24,16.0,2.79,18.0,17.0
+Biology,25,47.0,3.45,6.0,1.0
+Pre-Medical,26,97.0,3.43,12.0,12.0
+Applied Statistics,27,82.0,3.29,12.0,17.0
+Applied Statistics,23,83.0,3.72,6.0,7.0
+computer science,25,24.0,3.4,,13.0
+Electrical Engineering,26,34.0,3.13,3.0,0.0
+data science,25,88.0,3.8,6.0,9.0
+applied mathematics,24,22.0,3.63,9.0,1.0
+Core Mathematics,27,4.0,2.76,3.0,15.0
+First Year Engineering,,62.0,,9.0,10.0
+Biology,25,70.0,3.91,18.0,2.0
+Data Science,26,11.0,3.41,6.0,10.0
+Applied Statistics,25,65.0,3.8,15.0,2.0
+data science,22,,3.8,3.0,6.0
+chemistry,22,58.0,3.62,3.0,
+Electrical Engineering,23,12.0,2.55,15.0,10.0
+Data Science,22,2.0,3.32,12.0,
+computer and information technology,23,,2.83,12.0,7.0
+Biology,24,61.0,2.91,12.0,4.0
+Applied Statistics,,45.0,3.83,9.0,3.0
+Pre-Medical,,37.0,3.96,,11.0
+data science,25,88.0,3.79,9.0,2.0
+chemistry,26,66.0,3.57,9.0,8.0
+Computer Science,25,74.0,,18.0,16.0
+applied mathematics,27,0.0,3.76,15.0,14.0
+Computer Science,,26.0,3.31,12.0,
+Biochemistry,25,72.0,2.98,15.0,12.0
+chemistry,23,50.0,,15.0,
+computer science,22,3.0,3.05,18.0,10.0
+Physics,26,89.0,2.64,6.0,16.0
+Physics,24,5.0,,18.0,2.0
+Mechanical Engineering,25,59.0,2.58,18.0,0.0
+First Year Engineering,25,92.0,3.79,6.0,15.0
+Electrical Engineering,24,85.0,3.7,,7.0
+Data Science,26,,3.06,9.0,3.0
+Data Science,27,38.0,3.94,6.0,8.0
+Pre-Medical,27,88.0,2.51,12.0,10.0
+Physics,24,55.0,2.6,3.0,1.0
+Computer and Information Technology,24,15.0,3.64,,5.0
+computer and information technology,25,,3.06,12.0,9.0
+First Year Engineering,,,3.62,9.0,13.0
+computer and information technology,22,90.0,2.9,6.0,10.0
+biology,22,75.0,3.58,12.0,7.0
+Computer and Information Technology,22,69.0,2.6,3.0,
+Electrical Engineering,,56.0,2.64,6.0,10.0
+Applied Statistics,23,44.0,3.96,,10.0
+Data Science,24,49.0,3.53,9.0,13.0
+Computer Science,27,,3.91,,
+Computer Science,23,85.0,3.79,,11.0
+Computer Science,,,3.27,12.0,12.0
+data science,27,85.0,3.7,6.0,11.0
